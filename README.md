@@ -1,9 +1,8 @@
 Google Homepage Clone
 A simple, responsive recreation of the Google Search homepage built using pure HTML and CSS. This project focuses on layout accuracy, flexbox alignment, and mimicking the clean aesthetic of Google’s UI.
 
- Live Demo
 You can view the live version of this project here:
-(ghmpg.png)
+![Google Homepage Clone](ghmpg.png)
 
  Features
 Pixel-Perfect Header: Includes "Gmail" and "Images" links along with the profile and apps icons.
